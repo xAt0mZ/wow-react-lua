@@ -1,0 +1,9 @@
+## Interface: 100100
+## Title: 0React
+## Notes: Some notes about this addon.
+## Author: xAt0mZ
+## Version: 0.1
+
+dev-setup.lua
+
+src/index.xml
